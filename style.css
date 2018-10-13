@@ -1,0 +1,42 @@
+body {
+font-family: monospace;
+}
+
+.container{
+padding: 20px;
+padding-bottom: 10px;
+width: 300px;
+margin: 0 auto;
+margin-top: 40px;
+background-color: #dcffe1;
+border: 7px solid;
+}
+
+form {
+display: inline-block;
+}
+
+#button:hover{
+cursor: pointer;
+}
+
+li:hover{
+  cursor: pointer;
+ }
+
+input{
+padding: 4px 15px 4px 5px;
+}
+
+#button{
+display: inline-block;
+background-color:#000000;
+color: #FFFFFF;
+text-align:center;
+margin-top:2px;
+padding: 5px 15px;
+}
+
+p{
+padding;
+}
